@@ -6,4 +6,8 @@ im using cava for the audio visualiser and peaclock for the clock
 
 the status bar is polybar
 
+the terminal is kitty
+
+im using Vivialdi for the browser
+
 the neovim theme is availbe at https://github.com/projekt0n/caret.nvim
