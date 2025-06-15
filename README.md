@@ -11,3 +11,7 @@ the terminal is kitty
 im using Vivialdi for the browser
 
 the neovim theme is availbe at https://github.com/projekt0n/caret.nvim
+
+the background can be found at https://www.pexels.com/photo/view-of-a-forest-in-autumn-19855952/
+
+I do NOT hold the rights to the background or the the Vim theme. 
