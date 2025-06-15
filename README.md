@@ -13,5 +13,11 @@ im using Vivialdi for the browser
 the neovim theme is availbe at https://github.com/projekt0n/caret.nvim
 
 the background can be found at https://www.pexels.com/photo/view-of-a-forest-in-autumn-19855952/
+I do NOT hold the rights to the background.
 
-I do NOT hold the rights to the background or the the Vim theme. 
+to use this theme you will need vim-plug this can be found at https://github.com/junegunn/vim-plug?tab=MIT-1-ov-file
+
+the cava and peaclock should automaticaly assign thier colors to fit with those of the terminal. you might want to chnage the bar width and hight and spacing in cava though
+
+to use the config files just copy config file into the applicable direcotry found under .config
+make sure to remove the old .config file after doing this. do not do this by deleting it. for safty's sake make sure to put it into a separate folder just incase something goes wrong.
