@@ -1,5 +1,6 @@
 # i3wm-brownish-green 
 ## ![2025-06-14-15:21:11-screenshot](https://github.com/user-attachments/assets/d18d1240-62b2-45a3-9e66-5a8fd81520b1)
+## ![2025-06-20-17:22:02-screenshot](https://github.com/user-attachments/assets/3364e3cf-4b7c-442c-b152-73e8882fa319)
 
 
 im using cava for the audio visualiser and peaclock for the clock
